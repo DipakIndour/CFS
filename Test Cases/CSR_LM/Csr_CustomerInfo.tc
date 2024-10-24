@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Csr_CustomerInfo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1f45c768-a7a8-4bbf-9794-f7fd405367e4</testCaseGuid>
+</TestCaseEntity>

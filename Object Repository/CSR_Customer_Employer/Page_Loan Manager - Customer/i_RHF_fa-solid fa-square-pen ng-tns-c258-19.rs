@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_RHF_fa-solid fa-square-pen ng-tns-c258-19</name>
+   <tag></tag>
+   <elementGuidId>21614c22-a73d-48a3-8381-77f70f4508b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='edit_1']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-solid.fa-square-pen.ng-tns-c258-19</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#edit_1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>20c857a1-d3f4-431c-b67f-efcd3e981e4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-solid fa-square-pen ng-tns-c258-19</value>
+      <webElementGuid>66862203-4a47-4437-bbe2-ad4e82300977</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit_1&quot;)/i[@class=&quot;fa-solid fa-square-pen ng-tns-c258-19&quot;]</value>
+      <webElementGuid>a94eb929-1f63-48f3-9576-7445b5a212bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/CSR_Customer_Employer/Page_Loan Manager - Customer/iframe_Open_myIframe</value>
+      <webElementGuid>db4bd2f2-2f2f-4cad-9213-24b98f2abe92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='edit_1']/i</value>
+      <webElementGuid>879f7888-d150-4c54-ad20-0c6ef9efb1af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>40839798-6678-4f75-84b9-3f085050c6d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

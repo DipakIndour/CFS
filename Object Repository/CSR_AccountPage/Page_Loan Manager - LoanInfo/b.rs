@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b</name>
+   <tag></tag>
+   <elementGuidId>8f68d098-d7c1-4e90-bd2f-f0638cdd4afa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='loan_drop_AM____index___chosen']/a/div/b)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;db1Demand Code&quot;i >> a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>7a386dae-8a55-4779-b423-e5b62eae74ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths ng-scope js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@class=&quot;layout-fixed dialer-collapsed&quot;]/div[@class=&quot;wrapper timeoutTest ng-scope ng-fadeInDown&quot;]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-wrapper ng-scope ng-fadeInDown&quot;]/div[@class=&quot;slider-container ng-scope&quot;]/div[1]/div[@class=&quot;loanInfo&quot;]/div[@class=&quot;bg-white p0 m0 mt-sm ng-isolate-scope&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-pane ng-scope active&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;ng-scope&quot;]/div[@id=&quot;loanMngmnt&quot;]/div[@class=&quot;panel-wrapper bt collapse in&quot;]/form[@class=&quot;ng-pristine ng-invalid ng-invalid-required ng-valid-date&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;padd_lft_rght mrg_col3_wrap ng-scope&quot;]/div[@class=&quot;col3_padd_remove ng-scope col-lg-4&quot;]/table[@class=&quot;table bb cus_card_grey_bg cus_card_ht&quot;]/tbody[1]/tr[1]/td[2]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;ng-scope&quot;]/div[1]/div[@id=&quot;Hold_code_w&quot;]/div[@id=&quot;loan_drop_AM____index___chosen&quot;]/a[@class=&quot;chosen-single&quot;]/div[1]/b[1]</value>
+      <webElementGuid>20707849-e9d0-44f2-8b8b-1181ed767849</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='loan_drop_AM____index___chosen']/a/div/b)[2]</value>
+      <webElementGuid>5556bfc1-f0e2-4cd6-8fb0-f5551782ac75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/table/tbody/tr/td[2]/div/div/div/div/div/a/div/b</value>
+      <webElementGuid>87a62398-1352-44ca-afb8-6d5b83c929ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

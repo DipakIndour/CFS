@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Manage and Edit Cards</name>
+   <tag></tag>
+   <elementGuidId>eeac9cb1-5eb9-4aa2-b4c2-a3d63503ca3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='new_alert']/span)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>14f4b4fb-adbb-4c7b-9d88-94e7dceba384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>d17d8850-5c6e-4859-9ab3-26064dfdfd95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage and Edit Cards</value>
+      <webElementGuid>a94a738d-1a24-4fb7-90ea-ae7db052cd59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths ng-scope js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@class=&quot;layout-fixed&quot;]/div[@class=&quot;wrapper ng-scope ng-fadeInDown&quot;]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-wrapper ng-scope ng-fadeInDown&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;container container-md&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-6 col-md-6 col-sm-12&quot;]/div[@class=&quot;panel b&quot;]/div[@class=&quot;panel-body text-center&quot;]/a[@id=&quot;new_alert&quot;]/span[@class=&quot;h4&quot;]</value>
+      <webElementGuid>dea4e952-a500-4f91-83e0-050904e29428</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='new_alert']/span)[2]</value>
+      <webElementGuid>064bfbd2-cf9f-4580-9596-a37d4a91da16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start here →'])[2]/following::span[1]</value>
+      <webElementGuid>93f10bd7-892f-4a68-90d6-73bc0be50286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Tab'])[1]/following::span[1]</value>
+      <webElementGuid>a51b2e00-a21e-43a3-b1fb-c18111e33a8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click to show list of Custom Card →'])[1]/preceding::span[1]</value>
+      <webElementGuid>8b3c3c53-c661-4193-b0e9-bd08e1ee6516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage and Edit Tabs'])[1]/preceding::span[1]</value>
+      <webElementGuid>8e1458a0-0505-4dfb-94a0-49bf1bc0bd23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage and Edit Cards']/parent::*</value>
+      <webElementGuid>47fa7976-e781-41f2-83e0-7cd8df301be1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a/span</value>
+      <webElementGuid>a3872a27-e211-4bf4-8bcc-d634daa43553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Manage and Edit Cards' or . = 'Manage and Edit Cards')]</value>
+      <webElementGuid>3f323b3e-1e4a-4c83-be73-f2005926788d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

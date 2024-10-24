@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Discard Changes</name>
+   <tag></tag>
+   <elementGuidId>d35cd043-7a50-4b43-b49f-15caffbec4c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#id_btn_row_custInfo_discardCustomerInfoChanges > span.mat-button-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='id_btn_row_custInfo_discardCustomerInfoChanges']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>beb99679-02d2-4e99-b54b-7a2cf0aefdd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>ec4f0723-7937-4d62-9beb-00361fea74c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Discard Changes</value>
+      <webElementGuid>b7ccdb14-4e14-498a-8e65-15ca7df67a6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id_btn_row_custInfo_discardCustomerInfoChanges&quot;)/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>ef7b5d29-b56f-4669-b410-bb656159fff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Loan Manager - Customer/iframe_Open_myIframe</value>
+      <webElementGuid>f24c67d6-2b6e-4188-bbd8-676955511716</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='id_btn_row_custInfo_discardCustomerInfoChanges']/span</value>
+      <webElementGuid>cdb0564c-a241-48de-88d3-e0a40e7d7ab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Changes'])[1]/following::span[3]</value>
+      <webElementGuid>892d1864-7a39-4668-ae5a-5fcc1275cce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do you want to save or discard your changes?'])[1]/following::span[4]</value>
+      <webElementGuid>d7e5d6b9-765c-4156-af0b-f24652f66c99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/preceding::span[3]</value>
+      <webElementGuid>18187f22-5c5e-4c30-b3b2-d773f3929d37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Discard Changes']/parent::*</value>
+      <webElementGuid>c9ba4404-5297-4e4c-8237-9a18626ad2d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-dialog-actions/button[2]/span</value>
+      <webElementGuid>a2af431d-a7f3-41bd-ba7c-a4ed5d6dbde7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Discard Changes' or . = 'Discard Changes')]</value>
+      <webElementGuid>27b13e33-f4b4-4274-bfe8-e936106f671a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

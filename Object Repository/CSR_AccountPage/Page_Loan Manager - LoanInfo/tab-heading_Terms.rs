@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tab-heading_Terms</name>
+   <tag></tag>
+   <elementGuidId>c3bbf75d-1fc1-4773-837b-eb0497cb8746</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[2]/following::tab-heading[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Terms&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tab-heading</value>
+      <webElementGuid>def33174-7aa9-4bb2-ac92-f668c17d32bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-style</name>
+      <type>Main</type>
+      <value>{'color': (termsActive) ? 'brown' : 'darkslategrey' }</value>
+      <webElementGuid>0b197f16-e1fa-4576-9874-18a167747fc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding ng-scope</value>
+      <webElementGuid>ccd84588-04ed-4b99-8fe8-e20f906ccd29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                        Terms
+                    </value>
+      <webElementGuid>db5f54f7-0ce9-4136-b9db-26be71d3633f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths ng-scope js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@class=&quot;layout-fixed dialer-collapsed&quot;]/div[@class=&quot;wrapper timeoutTest ng-scope ng-fadeInDown&quot;]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-wrapper ng-scope ng-fadeInDown&quot;]/div[@class=&quot;slider-container ng-scope&quot;]/div[1]/div[@class=&quot;loanInfo&quot;]/div[@class=&quot;bg-white p0 m0 mt-sm ng-isolate-scope&quot;]/ul[@class=&quot;nav nav-tabs nav-justified&quot;]/li[@class=&quot;ng-isolate-scope&quot;]/a[@class=&quot;ng-binding&quot;]/tab-heading[@class=&quot;ng-binding ng-scope&quot;]</value>
+      <webElementGuid>5b9707d8-c517-4588-8bb7-57dadbe9f60e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open'])[2]/following::tab-heading[2]</value>
+      <webElementGuid>b3370b4e-9cbd-4da3-9f76-5fb4d5a2642b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Terms']/parent::*</value>
+      <webElementGuid>ddf7abcf-de8e-4b9a-81e8-7257a8895b6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/ul/li[2]/a/tab-heading</value>
+      <webElementGuid>f09c47df-e722-4799-8706-be805de5d1ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//tab-heading[(text() = '
+                        Terms
+                    ' or . = '
+                        Terms
+                    ')]</value>
+      <webElementGuid>c307d75c-c8c9-4d91-85b7-77f4f77a841a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

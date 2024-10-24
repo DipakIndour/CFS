@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>em_SuperUserAccountCBR Status_fa fa-pencil</name>
+   <tag></tag>
+   <elementGuidId>2b3d5846-5283-48a3-a2fe-6432fca0b329</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[3]/tr/td[6]/button/em</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>em</value>
+      <webElementGuid>8b509084-c87e-4429-9f82-74dc47fbaedc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-pencil</value>
+      <webElementGuid>d80acd89-83b5-4a98-94d8-31677a328f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths ng-scope js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths&quot;]/body[@class=&quot;layout-fixed&quot;]/div[@class=&quot;wrapper ng-scope ng-fadeInDown&quot;]/section[@class=&quot;ng-scope&quot;]/div[@class=&quot;content-wrapper ng-scope ng-fadeInDown&quot;]/div[@class=&quot;ng-scope&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body&quot;]/form[@class=&quot;ng-scope ng-pristine ng-invalid ng-invalid-required&quot;]/div[@class=&quot;form-wizard wizard-horizontal&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 ng-scope&quot;]/form[@class=&quot;form-horizontal ng-scope ng-pristine ng-invalid ng-invalid-required&quot;]/div[@class=&quot;form-horizontal&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body&quot;]/table[@class=&quot;table ng-table-rowselected table-striped table-bordered table-responsive table-hover&quot;]/tbody[@class=&quot;ng-scope&quot;]/tr[1]/td[6]/button[@class=&quot;btn btn-sm btn-info&quot;]/em[@class=&quot;fa fa-pencil&quot;]</value>
+      <webElementGuid>0767b7be-2235-4766-a6b7-eb970bb06f4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody[3]/tr/td[6]/button/em</value>
+      <webElementGuid>6d746ad8-6208-4deb-a929-f3eb2f321611</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Brand</name>
+   <tag></tag>
+   <elementGuidId>6d3c4557-69e9-44aa-b6d0-ad8d5712b547</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.fxf7w6.rgHxCQ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[3]/div/div/div/div/div/section[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7a3c00fa-a411-4a63-9bb5-74a420443722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fxf7w6 rgHxCQ</value>
+      <webElementGuid>0526871d-beb5-471c-b2c6-e6aab474e737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Brand</value>
+      <webElementGuid>fc36c335-ec8c-46f6-88b3-585da1362ac7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;nt6sNV JxFEK3 _48O0EI&quot;]/div[@class=&quot;DOjaWF YJG4Cf&quot;]/div[@class=&quot;DOjaWF gdgoEp col-2-12&quot;]/div[@class=&quot;DOjaWF gdgoEp col-12-12&quot;]/div[@class=&quot;cPHDOP col-12-12&quot;]/div[@class=&quot;_0BvurA&quot;]/section[@class=&quot;-5qqlC _2OLUF3&quot;]/div[@class=&quot;FtQCb2 _3Owiq+&quot;]/div[@class=&quot;fxf7w6 rgHxCQ&quot;]</value>
+      <webElementGuid>b66f6fc2-9d03-47f7-9acb-427544587efd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div/div/div/div/div/section[3]/div/div</value>
+      <webElementGuid>694c245d-5fd4-4789-8adb-25dea4268f29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='to'])[1]/following::div[3]</value>
+      <webElementGuid>efa1ab8c-2c45-4baf-8b07-84bbbea69ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='.'])[6]/following::div[6]</value>
+      <webElementGuid>4c3848db-6b4b-40b1-be82-f6e4c9178e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gender'])[1]/preceding::div[1]</value>
+      <webElementGuid>07d3080b-cf90-41cf-80d4-2dab5da5d70b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discount'])[1]/preceding::div[3]</value>
+      <webElementGuid>85f5fc28-6d86-4001-9b7d-067ad4c39504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Brand']/parent::*</value>
+      <webElementGuid>6736c4db-dc77-49bd-971c-b1992095eeef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div/div</value>
+      <webElementGuid>78b5f979-eca2-40cd-8a55-ac00a3cb6a41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Brand' or . = 'Brand')]</value>
+      <webElementGuid>1212e125-41c4-45d9-82fe-82e000cd3502</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

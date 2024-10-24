@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_NAKH_fa-solid fa-square-pen ng-tns-c256-6</name>
+   <tag></tag>
+   <elementGuidId>bdfe0e4a-106a-4a7e-9fbf-6113873f4f88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-solid.fa-square-pen.ng-tns-c256-6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='customer_info_edit_0']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e93b2ef0-c12d-4caa-85a7-c1d2f05d0092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-solid fa-square-pen ng-tns-c256-6</value>
+      <webElementGuid>d22663a7-1717-49aa-9de8-56cd77cbaa58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer_info_edit_0&quot;)/i[@class=&quot;fa-solid fa-square-pen ng-tns-c256-6&quot;]</value>
+      <webElementGuid>a03ce03d-07d9-48b4-a0c7-a12280e14771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Loan Manager - Customer/iframe_Open_myIframe</value>
+      <webElementGuid>fd094ae0-41bf-4ed8-bc1c-998eb88e6940</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='customer_info_edit_0']/i</value>
+      <webElementGuid>a2ff7b33-2017-4d10-ad5a-51d8da9a1ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>14f2cc52-361b-4194-b68d-498b321db041</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

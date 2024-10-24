@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_NAKH_fa-solid fa-circle-plus</name>
+   <tag></tag>
+   <elementGuidId>b6b5936b-ef80-452a-a8f0-43596081b0a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-solid.fa-circle-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='customer_info_expand_0']/span/mat-icon/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6fa01224-4cdb-4147-b2bd-0e1f292f3b53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-solid fa-circle-plus</value>
+      <webElementGuid>0a32743c-b695-4a93-a6c4-960c6230263d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customer_info_expand_0&quot;)/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon notranslate ng-tns-c256-6 material-icons mat-ligature-font mat-icon-no-color ng-star-inserted&quot;]/i[@class=&quot;fa-solid fa-circle-plus&quot;]</value>
+      <webElementGuid>88de8dc6-4a89-4fe0-ad8c-f9950d630607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Loan Manager - Customer/iframe_Open_myIframe</value>
+      <webElementGuid>3cf9074b-6057-4317-acd1-e4255f0e9a5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='customer_info_expand_0']/span/mat-icon/i</value>
+      <webElementGuid>3c0f710d-e88f-4b00-884b-a3dc9efa59b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-icon/i</value>
+      <webElementGuid>f896ae0a-058d-40dc-866d-e10a5f66675e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

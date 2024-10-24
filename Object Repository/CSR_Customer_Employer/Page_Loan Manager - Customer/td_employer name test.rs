@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_employer name test</name>
+   <tag></tag>
+   <elementGuidId>1f508718-569b-4681-9fff-423e9c454872</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='id_table_emprinfo_table_0']/tbody/tr[2]/td/div/div[2]/form/div/div/table/tr[2]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;employer name test&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>81e9f124-a0a6-449b-ace7-3b1bd45e3dab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c258-19</value>
+      <webElementGuid>0ebfc8c5-c40a-4aca-90fe-661f4000dc0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>employer name test *</value>
+      <webElementGuid>393ec370-196a-4142-b454-f18056378dca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;id_table_emprinfo_table_0&quot;)/tbody[1]/tr[@class=&quot;mat-row cdk-row example-detail-row ng-tns-c258-19 ng-star-inserted&quot;]/td[@class=&quot;mat-cell cdk-cell cdk-column-expandedDetail mat-column-expandedDetail ng-tns-c258-19 ng-star-inserted&quot;]/div[@class=&quot;example-element-detail ng-tns-c258-19 ng-trigger ng-trigger-detailExpand ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c258-19 ng-star-inserted&quot;]/form[@class=&quot;ng-tns-c258-19 ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;cus-row ng-tns-c258-19&quot;]/div[@class=&quot;column-4 ng-tns-c258-19&quot;]/table[@class=&quot;customer-detais-table ng-tns-c258-19&quot;]/tr[@class=&quot;ng-tns-c258-19&quot;]/td[@class=&quot;ng-tns-c258-19&quot;]</value>
+      <webElementGuid>2de46462-1d0f-4feb-bcdd-94688325a4f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/CSR_Customer_Employer/Page_Loan Manager - Customer/iframe_Open_myIframe</value>
+      <webElementGuid>e5059c91-cc83-40bb-92f8-056fd743640d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='id_table_emprinfo_table_0']/tbody/tr[2]/td/div/div[2]/form/div/div/table/tr[2]/td</value>
+      <webElementGuid>a18f6cac-79a2-4c66-a7b4-943d9bd0e1ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Info Last Verified com'])[2]/following::td[1]</value>
+      <webElementGuid>e45e7560-8143-4a04-a6f4-9117519210ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[2]/following::td[2]</value>
+      <webElementGuid>6f0d3091-44db-459c-960c-6b2373f4cd6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B - A DOUGLAS BLACK'])[1]/preceding::td[1]</value>
+      <webElementGuid>bb19b42a-7023-4e35-b254-cac6e4b4b517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table/tr[2]/td</value>
+      <webElementGuid>7d21a3a2-d574-4705-811a-6b1af728ff23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'employer name test *' or . = 'employer name test *')]</value>
+      <webElementGuid>c119e49c-9a2c-4906-be74-46f552ef679a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

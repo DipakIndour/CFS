@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sports Shoes</name>
+   <tag></tag>
+   <elementGuidId>160905d0-477f-422a-9c9b-bce14529202a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[2]/div/div/div/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>efa60a13-943c-41a7-8fa3-a50740fa95aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Sports Shoes</value>
+      <webElementGuid>012f3f23-1831-4de6-908c-9a9f2a55fe15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jBYtJt</value>
+      <webElementGuid>e88185e0-04b7-47aa-9676-2d5106a69dc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/mens-footwear/sports-shoes/pr?sid=osp,cil,1cu&amp;otracker=nmenu_sub_Men_0_Sports%20Shoes</value>
+      <webElementGuid>003e181c-fc10-4a6e-9b4f-d1140230cc49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sports Shoes</value>
+      <webElementGuid>6e5a345a-747c-4393-87e3-7a40a198c931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;_5M58Mb&quot;]/div[@class=&quot;ACvr7K hTtFMH&quot;]/div[@class=&quot;bpjkJb&quot;]/div[@class=&quot;jzpKY6&quot;]/div[@class=&quot;wZsanD&quot;]/a[@class=&quot;jBYtJt&quot;]</value>
+      <webElementGuid>fed05779-5274-440d-9f2d-d954fb10228b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[2]/div/div/div/div/a[2]</value>
+      <webElementGuid>766a16eb-3214-4010-921b-dd0bdae50b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sports Shoes')]</value>
+      <webElementGuid>66365cc3-c16b-4e11-a7d6-79a9d6bfd792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footwear'])[1]/following::a[1]</value>
+      <webElementGuid>56dc070e-aafb-4322-af5b-b9724bdd49c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offer Zone'])[1]/following::a[2]</value>
+      <webElementGuid>e0cf0c8e-492b-4835-9bd4-f8787c37b39a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Casual Shoes'])[1]/preceding::a[1]</value>
+      <webElementGuid>07f2baaa-08d8-4279-8193-1d00f679e25e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formal Shoes'])[1]/preceding::a[2]</value>
+      <webElementGuid>fa65ba2c-47f3-4ff9-a78f-59ac39e7023f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sports Shoes']/parent::*</value>
+      <webElementGuid>33cd7a06-ba1a-4da8-828b-cdc80cbbcf95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/mens-footwear/sports-shoes/pr?sid=osp,cil,1cu&amp;otracker=nmenu_sub_Men_0_Sports%20Shoes')]</value>
+      <webElementGuid>f039b413-c6e7-4c52-8af7-d2b024a1ac6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/a[2]</value>
+      <webElementGuid>64d0d1b6-267c-46b8-ba34-8b0405cc02f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@title = 'Sports Shoes' and @href = '/mens-footwear/sports-shoes/pr?sid=osp,cil,1cu&amp;otracker=nmenu_sub_Men_0_Sports%20Shoes' and (text() = 'Sports Shoes' or . = 'Sports Shoes')]</value>
+      <webElementGuid>ee69a772-b05f-4f04-8715-507e78410441</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
